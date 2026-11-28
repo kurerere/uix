@@ -26,6 +26,12 @@
 /impeccable 先从 https://raw.githubusercontent.com/kurerere/uix/main/desktop/devin/DESIGN.md 下载并保存为当前项目根目录的 DESIGN.md，锁定这份视觉体系不要重新选风格，然后基于它开始设计并实现：<你的需求>
 ```
 
+#### Magpie Desktop · [`desktop/magpie/DESIGN.md`](desktop/magpie/DESIGN.md)
+
+```text
+/impeccable 先从 https://raw.githubusercontent.com/kurerere/uix/main/desktop/magpie/DESIGN.md 下载并保存为当前项目根目录的 DESIGN.md，锁定这份视觉体系不要重新选风格，然后基于它开始设计并实现：<你的需求>
+```
+
 ### Web
 
 #### v0 by Vercel · [`web/v0/DESIGN.md`](web/v0/DESIGN.md)
